@@ -1,5 +1,0 @@
-Alteração do arquivo
-
-Teste do git pull
-
-Teste bem-sucedido
